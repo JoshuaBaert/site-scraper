@@ -1,2 +1,5 @@
 .idea
 .env
+package-lock.json
+site/
+node_modules
